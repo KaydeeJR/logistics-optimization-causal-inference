@@ -1,0 +1,4 @@
+[core]
+    remote = gdrive
+['remote "gdrive"']
+    url = gdrive://1gB6USJ5a60coeG0JGbJ4_g_rmLYspDC_/gokeda_data

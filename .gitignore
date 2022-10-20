@@ -1,0 +1,7 @@
+week9
+credentials.json
+token.json
+scripts/__pycache__
+.vscode/settings.json
+.dvc
+data
