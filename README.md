@@ -8,6 +8,14 @@
 
 ## Install
 
+
+Clone the project
+
+```bash
+git clone https://github.com/KaydeeJR/logistics-optimization-causal-inference
+```
+Install dependencies
+
 ```sh
 pip3 install -r requirements.txt
 ```
